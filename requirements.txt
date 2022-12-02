@@ -2,7 +2,7 @@ requests
 requests[socks]
 bs4
 user_agent
-youtube
+
 requests_toolbelt
 telethon
 tenacity
